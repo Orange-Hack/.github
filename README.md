@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/black.svg" alt="Orange Hack" width="400"/>
+<img src="images/white.svg" alt="Orange Hack" width="400"/>
 
 By hackathoners, for hackathoners
 
